@@ -1,7 +1,7 @@
 <?php include 'functions.inc.php'; ?>
-<?php 
-
-include 'data.inc.php'; 
+<?php include 'header.inc.php'; ?>
+<?php include 'left.inc.php'; ?>
+<?php include 'data.inc.php';
 
 $shippingThreshold = 10000;
 $shippingFlatAmount = 200;
